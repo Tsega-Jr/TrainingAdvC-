@@ -12,3 +12,18 @@ D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
 D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
 D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
 D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\HRsystem\New folder\ADVC#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll
