@@ -52,5 +52,7 @@ public class Logfiles
     public void Test(int a, int b)
     {
         Console.WriteLine("The result is: " + (a + b) * (a - b));
+        Console.WriteLine("Elshuye");
+
     }
 }
