@@ -1,4 +1,7 @@
-﻿namespace BankAccountApp
+﻿using System;
+using System.IO;
+
+namespace BankAccountApp
 {
     // Delegate for the insufficient funds event
     public delegate void InsufficientFundsHandler(object sender, InsufficientFundsEventArgs e);
@@ -122,6 +125,16 @@
         private static void Account_InsufficientFunds(object sender, InsufficientFundsEventArgs e)
         {
             Console.WriteLine($"Insufficient funds! Attempted to withdraw: {e.Amount}, Current balance: {e.Balance}");
+            LogFileInsufficientFunds(e.Balance, e.Amount);
+        }
+        // Function to Save insufficient funds event to a file
+        private static void LogFileInsufficientFunds(double balance, double amount)
+        {
+            
+            using (StreamWriter sw = new StreamWriter(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "InsufficientFundsLog.txt"), true))
+            {
+                sw.WriteLine($"{DateTime.Now}: Insufficient funds! Attempted to withdraw: {amount}, Current balance: {balance}");
+            }
         }
     }
 }
