@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qo3c0nqS5mVxnwaU9OGomjcX1+YfkQnlyHmja2B/HWcvx27UClTGkj1WcrRkmighYipw7zpN1ht6VQUDMz+Bug==",
+  "dgSpecHash": "c7muOSIsbfZr9TrnLdon+PGzlrMMQVG/XJU6Raa2f1hUPk1pYK/Z7Q3M0qDZXzQXytLuC3TXvLLD2X13ybjbZA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TrainingAdvC#\\DetailGenerics\\DetailGenerics.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\githubtraining\\advanced c#\\TrainingAdvC-\\DetailGenerics\\DetailGenerics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
