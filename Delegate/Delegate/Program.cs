@@ -1,22 +1,31 @@
 ﻿class Program
 {
     delegate void DelegateMethod(string text);
+    delegate void DelegateMethodAssigment (int number1,int number2,string text);
     static void Main(string[] args)
     {
         Logfiles log = new Logfiles();
 
         DelegateMethod consoleDisplay, logFileSave, Multiple;
+        DelegateMethodAssigment consoleDisplayAssigment;
 
         consoleDisplay = new DelegateMethod(log.ConsoleDisplay);
 
         logFileSave = new DelegateMethod(log.LogFileSave);
 
+        consoleDisplayAssigment = new DelegateMethodAssigment(log.DotheAssigment);
+
         Multiple = consoleDisplay + logFileSave;
-        Console.WriteLine("Write a Note");
+        Console.WriteLine("Input the first number");
+       
+        var numberA = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Input the second number");
+        var numberB = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter Note");
 
         var note = Console.ReadLine();
 
-        Multiple(note);
+        consoleDisplayAssigment(numberA , numberB,note);
 
         Console.ReadKey();
 
@@ -36,5 +45,10 @@ public class Logfiles
         {
             sw.WriteLine($"{DateTime.Now}: {text}");
         }
+    }
+    public void DotheAssigment (int number1, int number2 , string text)
+    {
+        var calculatedValue= (number1+ number2) * (number1-number2);
+        Console.WriteLine($"{text}{calculatedValue}");
     }
 }
