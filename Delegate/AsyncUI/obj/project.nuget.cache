@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gEO4lLGncOkxp3uxTkNGACVFP/Sy++KjpHaZuhzQxFjm4pcV2yaqayruzCtxwXL/MV+Gxt7X9DjtMYzlqpWb6Q==",
+  "dgSpecHash": "eW2liYUo++E8KvQU++9beDFDMbn3iZ0uBFcwQ5+bDZX0aOdrw+eG0+hokwxJMcS+YUJ9USslCTFDbT16ItlMPg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj",
+  "projectFilePath": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncUI\\AsyncUI.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.12-rel-31116-00\\microsoft.net.native.compiler.2.2.12-rel-31116-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.14\\microsoft.net.uwpcoreruntimesdk.2.2.14.nupkg.sha512",

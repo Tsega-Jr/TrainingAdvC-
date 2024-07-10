@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\Delegate\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Delegate\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Generics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\DetailGenerics\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Events\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\EventDelegate\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsyncUI\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsyncAPI\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\HughQueryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsyncAPI\\Controllers\\HughQueryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AsyncUI\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\DetailGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DetailGenerics\\Program.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\DetailGenerics\\Program.cs",
+              "RelativeToolTip": "..\\DetailGenerics\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:06.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Generics\\Program.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Generics\\Program.cs",
+              "RelativeToolTip": "..\\Generics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:07.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Events\\Program.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Events\\Program.cs",
+              "RelativeToolTip": "..\\Events\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:07.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\EventDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EventDelegate\\Program.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\EventDelegate\\Program.cs",
+              "RelativeToolTip": "..\\EventDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AsyncUI\\MainPage.xaml.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "AsyncUI\\MainPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwvzwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:07.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AsyncAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:07.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HughQueryController.cs",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\HughQueryController.cs",
+              "RelativeDocumentMoniker": "AsyncAPI\\Controllers\\HughQueryController.cs",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncAPI\\Controllers\\HughQueryController.cs",
+              "RelativeToolTip": "AsyncAPI\\Controllers\\HughQueryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:05:07.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AsyncUI\\MainPage.xaml",
+              "ToolTip": "D:\\HRsystem\\New folder\\ADVC#\\TrainingAdvC-\\Delegate\\AsyncUI\\MainPage.xaml",
+              "RelativeToolTip": "AsyncUI\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T07:05:07.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
