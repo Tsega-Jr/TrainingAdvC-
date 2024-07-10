@@ -5,8 +5,8 @@
         var result = new Result { Value = 10, IsSuccess = true };
         var display = new display { Note = "Advanced c# Generics", IsSuccess = false };
 
-        var GenericResult = new GenericResult<string> { Value = "Generic String", IsSuccess = false };
-        var GenericResult1 = new GenericResult<int> { Value = 5, IsSuccess = false };
+        var GenericResult = new GenericResult<string,DateTime> { Value = "Generic String", IsSuccess = false, Date = DateTime.Now };
+        var GenericResult1 = new GenericResult<int,DateTime> { Value = 5, IsSuccess = false,Date=DateTime.Now };
 
         Console.WriteLine(display.Note);
         Console.WriteLine(display.IsSuccess);
@@ -14,10 +14,11 @@
     }
 }
 
-public class GenericResult<T>
+public class GenericResult<T,R>
 {
     public T Value { get; set; }
     public bool IsSuccess { get; set; }
+    public R Date { get; set; }
 }
 
 public class Result
