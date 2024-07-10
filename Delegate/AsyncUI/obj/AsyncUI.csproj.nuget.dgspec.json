@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj": {}
+    "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\AsyncUI\\AsyncUI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj": {
+    "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\AsyncUI\\AsyncUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj",
+        "projectUniqueName": "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\AsyncUI\\AsyncUI.csproj",
         "projectName": "AsyncUI",
-        "projectPath": "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj",
-        "packagesPath": "C:\\Users\\tsegaw.alemayehu\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\obj\\",
+        "projectPath": "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\AsyncUI\\AsyncUI.csproj",
+        "packagesPath": "C:\\Users\\firezer.teshome\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\AsyncUI\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tsegaw.alemayehu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\firezer.teshome\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

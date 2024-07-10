@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\TrainingAdvC#\\Delegate\\Delegate\\Delegate.csproj": {}
+    "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\Delegate\\Delegate.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\TrainingAdvC#\\Delegate\\Delegate\\Delegate.csproj": {
+    "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\Delegate\\Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\TrainingAdvC#\\Delegate\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\Delegate\\Delegate.csproj",
         "projectName": "Delegate",
-        "projectPath": "D:\\Projects\\TrainingAdvC#\\Delegate\\Delegate\\Delegate.csproj",
-        "packagesPath": "C:\\Users\\tsegaw.alemayehu\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\TrainingAdvC#\\Delegate\\Delegate\\obj\\",
+        "projectPath": "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\Delegate\\Delegate.csproj",
+        "packagesPath": "C:\\Users\\firezer.teshome\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firezer.teshome\\Desktop\\C# Training\\TrainingAdvC-\\Delegate\\Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tsegaw.alemayehu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\firezer.teshome\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
