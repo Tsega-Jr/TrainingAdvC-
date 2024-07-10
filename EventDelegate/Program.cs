@@ -2,7 +2,7 @@
 {
     // Delegate for the insufficient funds event
     public delegate void InsufficientFundsHandler(object sender, InsufficientFundsEventArgs e);
-
+    public delegate void Logger(string text);
     // Custom EventArgs to hold additional event data
     public class InsufficientFundsEventArgs : EventArgs
     {
@@ -24,12 +24,15 @@
 
         // Event for insufficient funds
         public event InsufficientFundsHandler InsufficientFunds;
-
+        public event BankLoggerHandler BankLogger;
         // Constructor
         public BankAccount(int accountNumber, double initialBalance)
         {
             AccountNumber = accountNumber;
             Balance = initialBalance;
+        }
+        public void loggersave(string text){
+            Console.log("Logger on it "+text);
         }
 
         // Method to deposit money
@@ -45,11 +48,13 @@
             if (amount > Balance)
             {
                 OnInsufficientFunds(new InsufficientFundsEventArgs(Balance, amount));
+                OnloggerEvent("Amount graterthan Balance");
             }
             else
             {
                 Balance -= amount;
-                Console.WriteLine($"Withdrew: {amount}, New Balance: {Balance}");
+                OnloggerEvent("Normal flow of the bussiness");
+            Console.WriteLine($"Withdrew: {amount}, New Balance: {Balance}");
             }
         }
 
@@ -57,6 +62,9 @@
         protected virtual void OnInsufficientFunds(InsufficientFundsEventArgs e)
         {
             InsufficientFunds?.Invoke(this, e);
+        }
+        protected virtual void OnloggerEvent(string text){
+            BankLogger?.Invoke(this,e)
         }
     }
 
@@ -66,10 +74,11 @@
         {
             // Create a new bank account with an initial balance
             BankAccount account = new BankAccount(123456, 0.0);
-
+             
             // Subscribe to the InsufficientFunds event
             account.InsufficientFunds += Account_InsufficientFunds;
-
+            //Add by logger
+            account.BankLogger += loggerText;
             // User interaction loop
             bool continueRunning = true;
             while (continueRunning)
@@ -122,6 +131,9 @@
         private static void Account_InsufficientFunds(object sender, InsufficientFundsEventArgs e)
         {
             Console.WriteLine($"Insufficient funds! Attempted to withdraw: {e.Amount}, Current balance: {e.Balance}");
+        }
+        private static void loggerText(string text){
+            Console.log("Action logger on it "+text);
         }
     }
 }
