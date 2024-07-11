@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj": {}
+    "C:\\Users\\solomon.sefiw\\Desktop\\Advanced C# Trainning\\C# With Team\\Delegate\\AsyncUI\\AsyncUI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj": {
+    "C:\\Users\\solomon.sefiw\\Desktop\\Advanced C# Trainning\\C# With Team\\Delegate\\AsyncUI\\AsyncUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj",
+        "projectUniqueName": "C:\\Users\\solomon.sefiw\\Desktop\\Advanced C# Trainning\\C# With Team\\Delegate\\AsyncUI\\AsyncUI.csproj",
         "projectName": "AsyncUI",
-        "projectPath": "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\AsyncUI.csproj",
-        "packagesPath": "C:\\Users\\tsegaw.alemayehu\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\TrainingAdvC#\\Delegate\\AsyncUI\\obj\\",
+        "projectPath": "C:\\Users\\solomon.sefiw\\Desktop\\Advanced C# Trainning\\C# With Team\\Delegate\\AsyncUI\\AsyncUI.csproj",
+        "packagesPath": "C:\\Users\\solomon.sefiw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\solomon.sefiw\\Desktop\\Advanced C# Trainning\\C# With Team\\Delegate\\AsyncUI\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tsegaw.alemayehu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\solomon.sefiw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,6 +34,11 @@
           "uap10.0.17763": {
             "projectReferences": {}
           }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
