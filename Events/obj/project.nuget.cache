@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FhIyC+61UdWfqi5RZof4VAQg+AEruHhUZLXsiTZ5nqg5C3nPmSwUN02+L0yBVghQoi/JtXjs9HnShgWVZNunmQ==",
+  "dgSpecHash": "wtONx3gxayFwd+9/uDXm2/wRAFhXXJo2hVJqk2UAgvnm1KozQ5JzL8GGQ3lvSqk/kS1mUeM2bws5+RvXE+k0qg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TrainingAdvC#\\Events\\Events.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\githubtraining\\advanced c#\\TrainingAdvC-\\Events\\Events.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

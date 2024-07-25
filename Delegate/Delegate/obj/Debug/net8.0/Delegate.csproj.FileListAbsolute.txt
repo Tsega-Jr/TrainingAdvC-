@@ -12,3 +12,18 @@ D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
 D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
 D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
 D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\xampp\htdocs\githubtraining\advanced c#\TrainingAdvC-\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll
